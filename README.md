@@ -2,7 +2,7 @@
 <p align="center">
   <span><a href="https://github.com/kevin-dough"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
   <span><a href="https://www.instagram.com/_kevintdo_/"><img src="https://socialize-md.vercel.app/api/badge/instagram" alt="instagram" /></a></span>
-  <span><a href="https://www.instagram.com/_kevintdo_/"><img src="https://socialize-md.vercel.app/api/badge/linkedin" alt="instagram" /></a></span>
+  <span><a href="https://www.linkedin.com/in/kevintdo50/"><img src="https://socialize-md.vercel.app/api/badge/linkedin" alt="instagram" /></a></span>
 </p>
 
 <h2 align="center">GitHub Stats 📈</h2>
