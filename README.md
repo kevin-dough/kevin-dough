@@ -7,6 +7,6 @@
 
 <h2 align="center">GitHub Stats 📈</h2>
 <div align="center" class="row justify-content-around">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-dough&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-dough&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-dough&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-dough&layout=compact&theme=dracula&hide_border=true" />
 </div>
