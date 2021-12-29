@@ -5,10 +5,6 @@
   <span><a href="https://www.linkedin.com/in/kevintdo50/"><img src="https://socialize-md.vercel.app/api/badge/linkedin" alt="instagram" /></a></span>
 </p>
 
-<h2>Things I'm Learning</h2>
-- Java
-- Thymeleaf
-
 <h2>Technical Skills</h2>
 <h3>Languages</h3>
 
