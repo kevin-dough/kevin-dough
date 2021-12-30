@@ -5,7 +5,8 @@
   <span><a href="https://www.linkedin.com/in/kevintdo50/"><img src="https://socialize-md.vercel.app/api/badge/linkedin" alt="instagram" /></a></span>
 </p>
 
-<h2>Technical Skills</h2>
+<h2 align="center">Technical Skills ⚔</h2>
+
 <h3>Languages</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
